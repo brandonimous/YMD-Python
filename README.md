@@ -6,10 +6,10 @@ Para poder usarlo se necesita un documento en fotato ".txt" dónde guardar los u
 Instrucciones
 1. Con los url ya guardados en el archivo ".txt"
 2. Ejecutar programa
-  - Escribir el nombre del archivo
-  - A partir de este momento el porgrama comenzará a hacer todo por si mismo
-  - Cuando finalize con el mensaje "Música descargada correctamente en la carpeta llamada "YMD descargas"
-  - Puedes escribir "salir" para poder finalizar la ejecución
+3. Escribir el nombre del archivo
+4. A partir de este momento el porgrama comenzará a hacer todo por si mismo
+5. Cuando finalize con el mensaje "Música descargada correctamente en la carpeta llamada "YMD descargas"
+6. Puedes escribir "salir" para poder finalizar la ejecución
 
 
 **Puedes encontrar tus archivos en formato ".mp3" en la carpeta llamada "YMD descargas" la cual está dentro del mismo directorio que YMD**
